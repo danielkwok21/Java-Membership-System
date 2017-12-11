@@ -14,9 +14,8 @@ Pull file from GitHub
 
 Push
 1.	git status 			//check changes in all file
-2.	git add jun_test.txt		//add specific file before commit
+2.	git add /*file name*/		//add specific file before commit
 2.1	git reset			//to cancel added file (revert back)
-3.	git add .			//add all files before commit
-3.1	git add
-4.	git commit -m "message"	//commit with a message
-5.	git push origin MapReader	//push file to MapReader in GitHub
+3.	git add .			//add all files before commit $ git commit -m "message"	
+4. 	git commit -m "message"		//commit with a message	//commit with a message
+5.	git push origin /*repo name */	//push file to repo in GitHub
