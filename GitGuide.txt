@@ -1,8 +1,9 @@
-Find git file 
-1. cd Desktop\SoftwareMaintenanceCW2
-
 Clone file from GitHub
-1. git clone "link"
+1. cd desired location
+2. git init			//create git repository
+3. git clone "link"
+4. git branch -a		//to see all branches
+5. git checkout /*branch name*/ //to access branch
 
 Check current branch in local
 1. git branch
